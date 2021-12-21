@@ -10,9 +10,9 @@ CNC Laser engraver capable of using Arduino Uno and GRBL
 </p>
 please ignore how messy my room is
 
+-----------------------------------
 
 I have only uploaded the CAD model, which can be used to get any necessary .stl files for 3d printing. You can also use it to get a general idea of how to assemble the engraver.
-
 
 It WAS able to get it toengrave, though all the software I had to use was too complicated and annoying to use.
 
