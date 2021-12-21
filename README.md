@@ -6,7 +6,7 @@ CNC Laser engraver capable of using Arduino Uno and GRBL
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75654428/146998802-600d0760-cc47-46da-9509-5c6b5b1d6ef7.jpg" />
+  <img src="https://user-images.githubusercontent.com/75654428/146999088-ec4e48ea-dcd5-47d6-844f-fc0252f07242.jpg" />
 </p>
 please ignore how messy my room is
 
