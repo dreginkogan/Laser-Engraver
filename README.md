@@ -1,25 +1,19 @@
 # Laser-Engraver
 CNC Laser engraver capable of using Arduino Uno and GRBL
 
-I have only posted the CAD model, which can be used to get any necessary .stl files for 3d printing. You can also use it to get a general idea of how to assemble the engraver.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75654428/146997884-2508aa3c-907d-4851-b053-9cc37d00b1b5.png" />
+</p>
 
-Here is a list of non-3D printed parts that you may need:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75654428/146998802-600d0760-cc47-46da-9509-5c6b5b1d6ef7.jpg" />
+</p>
+please ignore how messy my room is
 
 
-	Extrusions:
-	
-		4x 150mm x 20mm x 20mm aluminum t-slot extrusions
-		4x 350mm x 20mm x 20mm aluminum t-slot extrusions
-		3x 500mm x 20mm x 20mm aluminum t-slot extrusions
-		
-	Belt System:
-	
-		12x perlin wheels for t-slot aluminum extrusion
-		1x 5M GT2 Timing bekt
-		2x 20 teeth 5mm bore belt pulleys
-		2x idler pulleys
-		
-		
-	
-		
-		
+I have only uploaded the CAD model, which can be used to get any necessary .stl files for 3d printing. You can also use it to get a general idea of how to assemble the engraver.
+
+
+It WAS able to get it toengrave, though all the software I had to use was too complicated and annoying to use.
+
+Also, this project ended, and the parts that I used to build it have been reporposed into a catapult, which I will eventually put on github.
