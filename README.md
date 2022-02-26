@@ -14,6 +14,6 @@ please ignore how messy my room is
 
 I have only uploaded the CAD model, which can be used to get any necessary .stl files for 3d printing. You can also use it to get a general idea of how to assemble the engraver.
 
-It WAS able to get it to engrave, though all the software I had to use was too complicated and annoying to use.
+It WAS able to get it to engrave, though all the software I had to use was too annoying to use.
 
 Also, this project ended, and the parts that I used to build it have been reporposed into a catapult, which I will eventually put on github.
